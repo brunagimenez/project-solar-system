@@ -1,0 +1,48 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@100&display=swap');
+
+body {
+  color: white;
+  background-image: url("images/background.png");
+  display: flexbox;
+}
+
+.header {
+  font-family: 'Epilogue', sans-serif;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  padding: 80px;
+
+}
+
+.logo {
+  padding-bottom: 40px;
+}
+
+.title {
+  display: flex;
+  flex-direction: row;
+  font-family: 'Epilogue', sans-serif;
+  font-size: 40px;
+}
+
+.solarsystem {
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+}
+
+.sistemasolar{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.planetas{
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  font-family: 'Epilogue', sans-serif;
+  font-size: 30px;
+  font-weight: 800;
+} */
