@@ -110,7 +110,7 @@ e de fácil manutenção!
 
 # Guidelines (EN)
 
-<<details>
+<details>
   <summary><strong>Some important information for project visualization:</strong></summary><br />
 
 1. Clone the repository:
@@ -130,7 +130,7 @@ e de fácil manutenção!
 
 </details>
 
-<</details>
+</details>
 
 <details>
   <summary><strong>🕵🏿 Reviewing a pull request</strong></summary><br />
